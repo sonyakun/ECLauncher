@@ -1,1 +1,2 @@
 # ECLauncher
+EagleCraft Launcher
